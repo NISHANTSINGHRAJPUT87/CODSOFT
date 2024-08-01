@@ -1,4 +1,4 @@
-# Codesoft internship in python language
+# Codsoft internship in python language
 
 This project includes three main utilities written in Python:
 1. To-Do List
